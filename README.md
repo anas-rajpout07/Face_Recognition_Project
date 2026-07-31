@@ -1,11 +1,10 @@
 # Face Recognition Attendance System
 
 A desktop-based Face Recognition Attendance System built with **Python**, **OpenCV**, **face_recognition**, **SQLite**, and **PyQt6**. The project allows a teacher/instructor to register students, store their face encodings, and mark attendance through live camera face recognition.
-
-![Project Screenshot](./screenshot.png)
-
 ##Workflow
 ![Project Screenshot](./workflow.png)
+
+![Project Screenshot](./screenshot.png)
 
 ## Overview
 
