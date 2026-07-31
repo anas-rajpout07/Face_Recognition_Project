@@ -4,6 +4,9 @@ A desktop-based Face Recognition Attendance System built with **Python**, **Open
 
 ![Project Screenshot](./screenshot.png)
 
+##Workflow
+![Project Screenshot](./workflow.png)
+
 ## Overview
 
 This project is designed to automate student attendance using facial recognition. It includes:
